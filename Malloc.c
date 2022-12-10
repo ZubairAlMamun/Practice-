@@ -14,8 +14,6 @@ int main(){
         printf("%d th position > %d\n",i,*(ptr+i));
 
     }
-
-
     return 0;
 
 }
